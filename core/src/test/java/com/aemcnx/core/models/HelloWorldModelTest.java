@@ -63,4 +63,11 @@ class HelloWorldModelTest {
         assertTrue(StringUtils.contains(msg, page.getPath()));
     }
 
+    @Test
+    void init() {
+    }
+
+    @Test
+    void getMessage() {
+    }
 }
